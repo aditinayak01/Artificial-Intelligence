@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/CV/.idea/CV.iml" filepath="$USER_HOME$/PycharmProjects/CV/.idea/CV.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/akuna/.idea/akuna.iml" filepath="$USER_HOME$/PycharmProjects/akuna/.idea/akuna.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/multiagent.iml" filepath="$PROJECT_DIR$/.idea/multiagent.iml" />
+    </modules>
+  </component>
+</project>
